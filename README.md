@@ -1,4 +1,9 @@
-# AA-LAB1
+# Aprendizaje Automático 
+# LAB1 Grupo 17 
+
+
+
+
 
 Estudiantes:
 
